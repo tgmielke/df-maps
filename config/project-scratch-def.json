@@ -1,8 +1,8 @@
 {
   "orgName": "FSL Campfire",
   "adminEmail": "tyler@mailinator.com",
-  "description": "fsl campfire",
-  "template": "0TT6g00000AD0Z6",
+  "description": "maps/fsl",
+  "template": "0TT3c000000byJq",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
